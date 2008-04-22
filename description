@@ -9,4 +9,4 @@ These properties are in section 6.1 of the paper
    and U. Nestmann.
    However, we consider here an extended message language.
 Keywords:bisimulation spi-calcul hedge "hedged bisimulation"
-Require:
+Require:Category: Computer Science/Concurrent Systems and Protocols/Theory of concurrent systems
