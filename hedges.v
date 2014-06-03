@@ -22,6 +22,7 @@
 
 (** Author: Sébastien Briais (sebastien.briais@epfl.ch) *)
 
+Unset Standard Proposition Elimination Names.
 
 (** We assume to have a (countably infinite) set of names. *)
 Hypothesis Nam : Set.
