@@ -16,11 +16,11 @@
 
 (** In this file, we prove properties about hedges.
     These properties are in section 6.1 of the paper
-    "On Bisimulations for the Spi-Calculus" by J. Borgström
+    "On Bisimulations for the Spi-Calculus" by J. BorgstrÃ¶m
     and U. Nestmann.
     However, we consider here an extended message language. *)
 
-(** Author: Sébastien Briais (sebastien.briais@epfl.ch) *)
+(** Author: SÃ©bastien Briais (sebastien.briais@epfl.ch) *)
 
 Unset Standard Proposition Elimination Names.
 
